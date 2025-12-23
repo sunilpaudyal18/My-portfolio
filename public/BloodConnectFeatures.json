@@ -1,0 +1,77 @@
+[
+  {
+    "id": "F001",
+    "title": "Authentication & Authorization",
+    "description": "Secure login via Firebase with JWT-based API access and role-based control."
+  },
+  {
+    "id": "F002",
+    "title": "Find Blood Donors Easily",
+    "description": "Filter donors by blood group, district, and upazila with responsive search."
+  },
+  {
+    "id": "F003",
+    "title": "Smart Location Filtering",
+    "description": "Upazila options dynamically appear based on district selection."
+  },
+  {
+    "id": "F004",
+    "title": "Role-Based Dashboards",
+    "description": "Separate dashboards for Admin, Volunteer, and Donor with custom privileges."
+  },
+  {
+    "id": "F005",
+    "title": "CRUD for Donation Requests",
+    "description": "Donors can create, edit, delete requests; Admins manage all requests with status updates."
+  },
+  {
+    "id": "F006",
+    "title": "Blog Publishing System (CMS)",
+    "description": "Volunteers/Admins can create, update, and delete formatted blog posts with Jodit Editor."
+  },
+  {
+    "id": "F007",
+    "title": "Dashboard Statistics",
+    "description": "Admin dashboard includes: total users, total requests, and funds raised."
+  },
+  {
+    "id": "F008",
+    "title": "Donation Status Workflow",
+    "description": "Statuses like pending, inprogress, done, and canceled are managed by Admin/Volunteers."
+  },
+  {
+    "id": "F009",
+    "title": "Optimized API Requests",
+    "description": "All GET endpoints use TanStack Query with caching and refetching."
+  },
+  {
+    "id": "F010",
+    "title": "Pagination and Filtering",
+    "description": "Efficient list management with pagination and filters (status, role)."
+  },
+  {
+    "id": "F011",
+    "title": "Smart Notifications",
+    "description": "All interactions are confirmed using SweetAlert2 instead of native alerts."
+  },
+  {
+    "id": "F012",
+    "title": "JWT-Protected Routes",
+    "description": "User sessions persist with secure localStorage and auto re-authentication."
+  },
+  {
+    "id": "F013",
+    "title": "Donation Page with Stripe",
+    "description": "Secure funding and payment processing via Stripe; donation history is saved."
+  },
+  {
+    "id": "F014",
+    "title": "Responsive UI",
+    "description": "Fully responsive design using Tailwind CSS and daisyUI, optimized for all screen sizes."
+  },
+  {
+    "id": "F015",
+    "title": "Environment Variables & Secure Deployment",
+    "description": "All credentials are secured via .env files. Hosted using Netlify & Render."
+  }
+]

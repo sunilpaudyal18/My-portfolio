@@ -1,0 +1,77 @@
+[
+  {
+    "roomiesId": 1,
+    "roomiesFeature": "User Authentication with Firebase",
+    "roomiesDescription": "Email/password & Google sign-in support with validation and feedback."
+  },
+  {
+    "roomiesId": 2,
+    "roomiesFeature": "User Profile Display",
+    "roomiesDescription": "Shows user photo, name, and logout option on the navbar after login."
+  },
+  {
+    "roomiesId": 3,
+    "roomiesFeature": "Add Roommate Listing",
+    "roomiesDescription": "Authenticated users can add new room listings with title, location, rent, type, lifestyle, and contact details."
+  },
+  {
+    "roomiesId": 4,
+    "roomiesFeature": "My Listings (Protected Route)",
+    "roomiesDescription": "Users can view, update, and delete only their own roommate posts."
+  },
+  {
+    "roomiesId": 5,
+    "roomiesFeature": "Browse All Listings",
+    "roomiesDescription": "Public listing page shows all roommate posts with search and 'See More' options."
+  },
+  {
+    "roomiesId": 6,
+    "roomiesFeature": "Like Functionality with Conditional Reveal",
+    "roomiesDescription": "Users can like a post to increase interest count and reveal the contact number."
+  },
+  {
+    "roomiesId": 7,
+    "roomiesFeature": "Dashboard Analytics",
+    "roomiesDescription": "View personalized dashboard with stats like total posts, likes, interested users, and average rent."
+  },
+  {
+    "roomiesId": 8,
+    "roomiesFeature": "Details Page with Conditional Contact Info",
+    "roomiesDescription": "Full listing details with like functionality to unlock contact information."
+  },
+  {
+    "roomiesId": 9,
+    "roomiesFeature": "Update Post Feature",
+    "roomiesDescription": "Users can edit their existing listings with pre-filled forms."
+  },
+  {
+    "roomiesId": 10,
+    "roomiesFeature": "Delete Listing with Confirmation",
+    "roomiesDescription": "Users can safely delete their posts with a confirmation popup."
+  },
+  {
+    "roomiesId": 11,
+    "roomiesFeature": "Dark/Light Theme Toggle",
+    "roomiesDescription": "Switch between light and dark modes for better accessibility and comfort."
+  },
+  {
+    "roomiesId": 12,
+    "roomiesFeature": "Responsive Design",
+    "roomiesDescription": "Fully optimized for mobile, tablet, and desktop using Tailwind CSS and DaisyUI."
+  },
+  {
+    "roomiesId": 13,
+    "roomiesFeature": "Protected Routing",
+    "roomiesDescription": "Private routes for authenticated users only, with reload safety."
+  },
+  {
+    "roomiesId": 14,
+    "roomiesFeature": "Interactive Animations",
+    "roomiesDescription": "Uses Lottie, React Awesome Reveal, and Simple Typewriter for a smooth UX."
+  },
+  {
+    "roomiesId": 15,
+    "roomiesFeature": "Robust Error & Loading Handling",
+    "roomiesDescription": "Includes toast notifications, SweetAlert for feedback, loading spinners, and a custom 404 page."
+  }
+]

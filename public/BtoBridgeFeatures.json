@@ -1,0 +1,77 @@
+[
+  {
+    "bridgeFeatureId": 1,
+    "bridgeFeature": "B2B Wholesale Marketplace",
+    "bridgeFeatureDescription": "Connects manufacturers, brands, and wholesalers with retailers and bulk buyers in a streamlined online selling platform."
+  },
+  {
+    "bridgeFeatureId": 2,
+    "bridgeFeature": "Smart Product Filtering",
+    "bridgeFeatureDescription": "Easily filter products by category, brand, rating, price, and more to quickly find exactly what you're looking for."
+  },
+  {
+    "bridgeFeatureId": 3,
+    "bridgeFeature": "JWT Authentication System",
+    "bridgeFeatureDescription": "All private routes are protected using JSON Web Tokens (JWT), with support for email/password and Google sign-in."
+  },
+  {
+    "bridgeFeatureId": 4,
+    "bridgeFeature": "User Role Detection in Navbar",
+    "bridgeFeatureDescription": "Dynamically shows or hides options in the navigation bar based on whether the user is logged in or not."
+  },
+  {
+    "bridgeFeatureId": 5,
+    "bridgeFeature": "View Product Details with Order Modal",
+    "bridgeFeatureDescription": "See full product specifications and open a modal to place orders with quantity selection and minimum validation."
+  },
+  {
+    "bridgeFeatureId": 6,
+    "bridgeFeature": "Real-Time Inventory Update",
+    "bridgeFeatureDescription": "Product quantities are instantly updated in MongoDB using $inc during orders or when products are removed from cart."
+  },
+  {
+    "bridgeFeatureId": 7,
+    "bridgeFeature": "Add New Products Easily",
+    "bridgeFeatureDescription": "Authenticated users can add detailed product listings including image, price, brand, category, and quantity."
+  },
+  {
+    "bridgeFeatureId": 8,
+    "bridgeFeature": "Edit Products (Any User)",
+    "bridgeFeatureDescription": "Any logged-in user can edit any product, updating fields like category, rating, price, description, and more."
+  },
+  {
+    "bridgeFeatureId": 9,
+    "bridgeFeature": "Cart with Stock Reversal",
+    "bridgeFeatureDescription": "Items removed from the cart will restore stock to the product in the database using secure MongoDB updates."
+  },
+  {
+    "bridgeFeatureId": 10,
+    "bridgeFeature": "Card/Table View Toggle for Products",
+    "bridgeFeatureDescription": "Users can toggle between a grid-based card view and a table view to browse all listed products more efficiently."
+  },
+  {
+    "bridgeFeatureId": 11,
+    "bridgeFeature": "Show Products with High MOQ",
+    "bridgeFeatureDescription": "A special filter shows only products with a minimum selling quantity over 100, ideal for large-scale buyers."
+  },
+  {
+    "bridgeFeatureId": 12,
+    "bridgeFeature": "Responsive UI Design",
+    "bridgeFeatureDescription": "Built with Tailwind CSS and DaisyUI to ensure optimal experience on both mobile and desktop devices."
+  },
+  {
+    "bridgeFeatureId": 13,
+    "bridgeFeature": "Dynamic Page Titles",
+    "bridgeFeatureDescription": "Each page dynamically updates the browser tab title to reflect the current view, improving navigation and SEO."
+  },
+  {
+    "bridgeFeatureId": 14,
+    "bridgeFeature": "Custom 404 Error Page",
+    "bridgeFeatureDescription": "Clean and branded error page when users access undefined routes, with an option to return to the home page."
+  },
+  {
+    "bridgeFeatureId": 15,
+    "bridgeFeature": "SweetAlert & Toast Notifications",
+    "bridgeFeatureDescription": "Provides user feedback for key actions like login, logout, add/edit product, and form errors using alert/toast libraries."
+  }
+]
