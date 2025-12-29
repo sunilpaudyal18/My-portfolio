@@ -5,7 +5,7 @@ import { RiCloseLargeFill } from "react-icons/ri";
 const NavBar = () => {
     const [openMenu, setOpenMenu] = useState(false);
     return (
-        <div className="sticky top-0 z-1000 bg-gray-500 py-4 border-b border-gray-300">
+        <div className="sticky top-0 z-1000 bg-gray-600  py-4 border-b border-gray-600 sm:px-6">
             <div className='flex flex-row justify-between items-center gap-4 px-2 lg:px-16'>
                 <div className='flex items-center justify-center gap-2'>
 
@@ -43,7 +43,7 @@ const NavBar = () => {
 
                         <NavLink className="text-xl cursor-pointer" to="/home#contacts"><span className={`hover:border-b-2 hover:border-[#00df72] ${location.hash === '#contacts' ? "border-b-2 border-[#00df72]" : " "}`}>Contact</span></NavLink>
 
-                        <a className='bg-[#00df72] px-4 py-1 text-xl rounded-md text-center' href="https://drive.google.com/file/d/1Akn8rnxokdBk3rDEGUZLcF7b0kQy3Rab/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+                        <a className='bg-[#00df72] px-4 py-1 text-xl rounded-md text-center' href="" target="_blank" rel="noopener noreferrer">
                             Resume
                         </a>
                     </div>

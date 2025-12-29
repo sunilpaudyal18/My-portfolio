@@ -51,7 +51,7 @@ const Hero = ({ ref }) => {
 
                     <button className='bg-[#00df72] px-16 py-4 text-xl text-white rounded-md shadow-lg hover:shadow-xl transition-all duration-300'>
                         <a
-                            href="https://drive.google.com/file/d/1Akn8rnxokdBk3rDEGUZLcF7b0kQy3Rab/view?usp=drive_link"
+                            href=""
                             target="_blank"
                             rel="noopener noreferrer"
                         >

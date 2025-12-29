@@ -39,7 +39,7 @@ const Home = () => {
     }, [location]);
 
     return (
-        <div className='max-w-[1600px] mx-auto px-4 bg-gray-500'>
+        <div className='max-w-[1600px] mx-auto px-4 bg-gray-600 text-white sm:px-6'>
             <NavBar></NavBar>
             <Hero ref={homeRef}></Hero>
             <AboutMe ref={aboutRef} ></AboutMe>
